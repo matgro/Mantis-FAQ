@@ -1,0 +1,29 @@
+<?php
+$s_menu_faq_link = "FAQ";
+$s_plugin_FAQPromote_viewing_faq_title = "Mostrando FAQs";
+$s_plugin_FAQPromote_add_faq = "Agregar FAQ";
+$s_plugin_FAQPromote_add_faq_title = "Nuevo FAQ";
+$s_plugin_FAQPromote_post_faq_button = "Promover a FAQ";
+$s_plugin_FAQPromote_add_faq_button = "Agregar a FAQ";
+$s_plugin_FAQPromote_question = "Pregunta";
+$s_plugin_FAQPromote_answere = "Respuesta";
+$s_plugin_FAQPromote_link_title = "Acceso directo al FAQ";
+$s_plugin_FAQPromote_delete_faq_sure_msg = "Realmente quier eliminar este FAQ?";
+$s_plugin_FAQPromote_delete_faq_item_button = "Eliminar FAQ";
+$s_plugin_FAQPromote_edit_faq_title = "Editar FAQ";
+$s_plugin_FAQPromote_update_faq_button = "Actualizar FAQ";
+$s_plugin_FAQPromote_import_faq = "FAQ";
+$s_plugin_FAQPromote_search_filter = "Filtro";
+$s_plugin_FAQPromote_search_string = "Buscar cadena completa";
+$s_plugin_FAQPromote_close_window = "Cerrar ventana";
+// config section
+$s_plugin_FAQPromote_plugin_format_title = "Mantis FAQ";
+$s_plugin_FAQPromote_plugin_format_config = "Configuración";
+$s_plugin_FAQPromote_plugin_format_promote_text = "Las incidencias se pueden promocionar a FAQs";
+$s_plugin_FAQPromote_plugin_format_project_text = "Guardar FAQ por proyecto";
+$s_plugin_FAQPromote_plugin_format_threshold_text = "Mínimo permisos para crear FAQs";
+$s_plugin_FAQPromote_faq_view_check = "Visualizar FAQ antes de promocionar";
+$s_plugin_FAQPromote_faq_view_threshold = "Permisos mínimo para ver FAQs";
+$s_plugin_FAQPromote_faq_view_window = "Abrir FAQ's en nueva ventana";
+$s_plugin_FAQPromote_plugin_format_enabled = "SI";
+$s_plugin_FAQPromote_plugin_format_disabled = "NO";
