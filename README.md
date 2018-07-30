@@ -4,12 +4,10 @@
 The **Mantis-FAQ** bundle allows you to adds Frequently Asked Questions to your MantisBT installation, and promote your issues to FAQ.
 
 ##Requirements
--------------
 The Mantis-FAQ requires [MantisBT](https://www.mantisbt.org/download.php) version 2.0.1 or higher.
 
 
 ## Installation
-------------
 ### Compatibility
 
 ### Setup instructions
