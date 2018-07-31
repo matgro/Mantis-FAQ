@@ -196,11 +196,10 @@ $faq_count = db_num_rows( $result );
 						$t_poster_name	= user_get_name($v_poster_id );
 						$t_poster_email	= user_get_email($v_poster_id );
 
-						$t_project_name = "Sitewide";
+						$t_project_name = "";
 						if( $v_project_id != 0 ) {
 							$t_project_name = project_get_field( $v_project_id, "name" );
 						}
-						$v_answere = trim(substr($v_answere, 0, 25)); 
 						
 						$target = "";
 						$info_proyect = "";
